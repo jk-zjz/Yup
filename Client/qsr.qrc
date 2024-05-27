@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qrc/close.png</file>
+        <file>qrc/logs.png</file>
+        <file>qrc/reduce.png</file>
+        <file>qrc/set_up.png</file>
+        <file>qrc/background.jpg</file>
+        <file>qrc/background_2.jpg</file>
+        <file>qrc/favicon.ico</file>
+        <file>qrc/log_reduce.png</file>
+        <file>qrc/log_amplify.png</file>
+        <file>qrc/Cloud_disk.png</file>
+        <file>qrc/download.png</file>
+        <file>qrc/share_disk.png</file>
+        <file>qrc/switch.png</file>
+        <file>qrc/transmission.png</file>
+        <file>qrc/user.png</file>
+        <file>qrc/xiugai.png</file>
+    </qresource>
+</RCC>
